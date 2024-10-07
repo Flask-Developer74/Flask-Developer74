@@ -1,9 +1,9 @@
 👋 Hi, I’m KALIRAJAN!
-👀 I’m interested in Full Stack Development.
+👀 I’m interested in python Full Stack Development.
 🌱 I’m currently learning Django & FastAPI.
 💞️ I’m looking to collaborate on exciting web applications and open-source projects.
 📫 You can reach me at [https://www.linkedin.com/in/kalirajan-p-688546268/].
-😄 Pronouns: he/him.
+😄 I'm Familiar with FLask, MySQL and MongoDB.
 ⚡ Fun fact: I love exploring new technologies and coding challenges!
 
 
